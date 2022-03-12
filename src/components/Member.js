@@ -25,7 +25,7 @@ class Member extends React.Component {
                     return (
                         <Card body className="d-flex flex-row" key={p.name}>
                             <div>
-                                <CardImg top style={{ width: "75px", height: "75px" }} className="rounded-circle" src="https://miro.medium.com/max/3150/1*ANisc4lZFBxuDsmdppFw7Q.jpeg" alt="Card image cap" />
+                                <CardImg top style={{ width: "75px", height: "75px" }} className="rounded-circle" src="https://www.famousbirthdays.com/faces/jarin-gazi-image.jpg" alt="Card image cap" />
                             </div>
                             <div className="flex-grow-1 px-4">
                                 <CardTitle tag="h5">Organizers</CardTitle>
