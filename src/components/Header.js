@@ -11,7 +11,7 @@ const Header = () => {
     return (
         <Card body className="d-flex flex-column flex-md-row text-center text-md-left">
             <div>
-                <CardImg top style={{ width: "260px" }} src="https://www.hacktiv8.com/images/pages/bootcamp/immersive-banner-section.jpg" alt="Card image cap" />
+                <CardImg top style={{ width: "260px" }} src="https://siar.com/wp-content/uploads/2020/01/Hacktiv8-sekolah-pemrograman-berbentuk-bootcamp-Dok-SIAR.jpg" alt="Card image cap" />
             </div>
             <div className="flex-grow-1 px-0 px-md-4 mt-3 mt-md-0">
                 <CardTitle tag="h5">Hacktiv8 Meetup</CardTitle>
