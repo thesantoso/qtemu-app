@@ -1,0 +1,24 @@
+body {
+  background-color:#F8FBFD;
+}
+section {
+  padding: 1rem 2rem;
+}
+.card {
+  margin-bottom: 24px;
+  border: none;
+  box-shadow: 0 1px 4px 0 rgba(112, 114, 125, 0.2);
+}
+.navbar {
+  border-bottom: 1px solid rgba(46,62,72,.12);
+}
+.bg-light {
+  background-color: #FFFFFF!important;;
+}
+.btn-primary {
+  background-color: #F45018!important;
+  border-color: #F45018!important;
+}
+a {
+  color: #F45018;
+}
