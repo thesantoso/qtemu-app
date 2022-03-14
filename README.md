@@ -3,5 +3,8 @@
 This project was bootstrapped with Create React App.
 
 #How To Run?
-- yarn 
-- yarn run start
+```bash
+cd qtemu-app
+yarn install
+yarn run start
+```
